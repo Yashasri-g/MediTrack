@@ -13,8 +13,7 @@ MediTrack is a comprehensive medical tracking application designed to help users
 ## Tech Stack
 - **Frontend:** React, Redux
 - **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Others:** Docker, JWT for authentication
+- **Database:** Postgresql
 
 ## Installation
 1. Clone the repository:
@@ -54,5 +53,3 @@ MediTrack /
 3. Commit your changes.
 4. Push to the branch.
 5. Create a pull request explaining your changes.
-
-Thank you for contributing!
